@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "17c9ea88fe3936c49bd10f9f",
+  "owner": "yjjocltc",
+  "repo": "page-fb600ca8c2086e3e70555331",
+  "title": "糖果云(Candytally)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fb600ca8c2086e3e70555331",
+      "a": "糖果云(Candytally)",
+      "b": "2027最新官网",
+      "entity": "糖果云(Candytally)",
+      "brand": "糖果云(Candytally)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "236951ef02a4b837e1dfaee19ee4e638ea822ee8a21dc289038c6b17382b9109",
+      "content": {
+        "primary_entity": "糖果云(Candytally)",
+        "keyword1": "糖果云(Candytally)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，糖果云(Candytally)提供海外加速订阅服务，面向日常办公、流媒体观看与游戏场景。基础版月付 ¥15，含每月 100GB 流量，可 3 台设备同时在线；旗舰版月付 ¥35，升级至每月 300GB 流量与 5 台设备，并加入 IPLC 专线优化；团队版月付 ¥85，提供每月 1000GB 流量和 20 台设备支持。年付方案分别为 ¥150、¥350、¥850，订阅周期越长单月成本越低。",
+          "AI_HERO_SUBTITLE": "糖果云海外加速订阅",
+          "AI_HERO_INTRO": "糖果云(Candytally)海外加速器以订阅制提供跨境网络加速，按流量与设备数量划分基础版、旗舰版和团队版。用户可依据常用设备数、月度流量消耗以及是否需要 IPLC 专线来选择对应套餐。",
+          "AI_VISUAL_TITLE": "糖果云加速订阅",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15 含 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35 含 300GB",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85 含 1000GB",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURES_INTRO": "按设备数量和月度流量选择套餐，确认订阅周期后即可开始配置。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版可支持 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量选档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 和 1000GB 三档流量对应不同套餐，可按日常使用强度匹配。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，相当于按月付价格节省两个月费用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅地址完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合 1 至 3 台设备、每月 100GB 流量；旗舰版适合 5 台设备以内、需要流媒体与游戏加速的用户；团队版面向 20 台设备及企业定制路由需求。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，选择套餐后再按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "对照设备数量与每月流量，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备的操作系统版本与客户端要求是否匹配所选套餐。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅地址，完成节点与规则的初始化设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再订阅",
+          "AI_CLOSING_TEXT": "根据设备数和流量需求选定套餐，按客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "糖果云套餐之间主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "主要差别在月流量、设备数和节点类型。基础版 100GB/3 台，旗舰版 300GB/5 台并含 IPLC 专线，团队版 1000GB/20 台并支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "月付和年付如何选择？",
+          "AI_FAQ_ANSWER_2": "月付适合先试用一档套餐观察流量消耗，年付价格约为十个月费用，适合确定长期使用后转入。",
+          "AI_FAQ_QUESTION_3": "一个账号可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时建议升级套餐或减少同时连接。",
+          "AI_FAQ_QUESTION_4": "订阅地址如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应设备客户端中新建订阅配置，粘贴订阅地址并保存，刷新后即可看到线路节点，具体按客户端文档操作。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速和低延迟场景优化，适合对网络抖动敏感的实时对战或语音通话，团队版则提供更高带宽的 VIP 节点。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sc0nlpfa.com",
+    "host": "xn--9kqy4sc0nlpfa.com"
+  },
+  "file_hashes": {
+    "index.html": "77dcb0fafbfc8977b7c8561f2b2683fdc692612cabc8727d297c7a92c2f4d85a",
+    "sitemap.xml": "9af97f76f047dc2c664ab6bb1d41d1bf603f006b7070ba7700ed9c2704d43539",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0196ca175c699c61139381aab7c5aaa038a1d3f462b972bb8a0dff302f8ed66b",
+    "robots.txt": "cee72f148bc5f7b5be773a673c3c5ba10f5f39f937d342fdc1a902090e6c18d5",
+    "5b77e2ef6d9c4eebb3faf7cfee0fb28d.txt": "c59b24d5798a86334df0909df18f4d18fc6de50628444f045d48c72a8b1d639e"
+  },
+  "revision": "168b2a185ad661c37d11798771967c93f3794f8057608d23853ad6b8ef03b955"
+}
